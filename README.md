@@ -1,1 +1,2 @@
-root
+Alx school
+software beginner
